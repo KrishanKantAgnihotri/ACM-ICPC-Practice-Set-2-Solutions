@@ -11,6 +11,7 @@ int main()
     cin>>v[i];
  }
  ll mn = *min_element(v.begin(),v.end());
+ sort(v.begin(),v.end());
  for(int i = 0 ;i<n ;i++){
     if(v[i]!=mn){
         cout<<v[i]<<"\n";
