@@ -1,5 +1,5 @@
 
-Simple Explanation:  Brute force all pairs having difference <= d       
+//Simple Explanation:  Brute force all pairs having difference <= d       
 
 #include<bits/stdc++.h>
 using namespace std;
